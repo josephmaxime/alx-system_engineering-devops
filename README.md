@@ -1,1 +1,1 @@
-repository description
+Variables expansions
